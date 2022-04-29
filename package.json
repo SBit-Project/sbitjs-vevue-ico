@@ -1,0 +1,22 @@
+{
+  "name": "vevue-ico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vevue/ICOcontracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vevue/ICOcontracts/issues"
+  },
+  "homepage": "https://github.com/vevue/ICOcontracts#readme",
+  "dependencies": {
+    "sbitjs": "^1.0.0"
+  }
+}
