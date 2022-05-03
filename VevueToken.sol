@@ -125,7 +125,7 @@ contract VevueToken is StandardToken, Ownable {
     return _Amount.mul(_exchangeRate).div(differenceFactor);
   }
 
-  /// @dev Sends SBit to the contract owner
+  /// @dev Sends Sbit to the contract owner
   function forwardFunds() internal {
     owner.transfer(msg.value);
   }
